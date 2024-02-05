@@ -50,7 +50,7 @@ body{
 }
 .container__botao:hover{
     background-color: #589cf0;
-    color: black;
+    color: rgb(122, 15, 15);
 }
 .botao_secundario{
     background-color: transparent;
